@@ -1,8 +1,7 @@
 import pandas as pd
-import matplotlib
-matplotlib.use('TkAgg') 
+import matplotli
 import matplotlib.pyplot as plt
-plt.switch_backend('TkAgg') 
+
 
 import seaborn as sns
 sns.set(style="whitegrid")
