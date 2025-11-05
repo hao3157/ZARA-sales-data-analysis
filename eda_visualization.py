@@ -1,8 +1,6 @@
 import pandas as pd
 import matplotli
 import matplotlib.pyplot as plt
-
-
 import seaborn as sns
 sns.set(style="whitegrid")
 plt.figure(figsize=(8, 6))
